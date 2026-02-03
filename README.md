@@ -1,5 +1,5 @@
 # Saudi-Real-Estate-Enfaz-Analysis
-Interactive Power BI Dashboard analyzing Saudi Arabia's real estate sales data from Enfaz Center, covering regional trends and quarterly financial insights.
+Interactive Power BI dashboard provides a strategic analysis of Saudi Arabia's sales of assets from Enfaz Center, covering regional trends and quarterly.
 
 # Saudi Real Estate Sales Dashboard (Enfaz Data) 🇸🇦📊
 
