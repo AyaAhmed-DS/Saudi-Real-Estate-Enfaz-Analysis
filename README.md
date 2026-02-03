@@ -5,7 +5,6 @@ Interactive Power BI Dashboard analyzing Saudi Arabia's real estate sales data f
 
 ## Overview
 This interactive Power BI dashboard provides a strategic analysis of Saudi Arabia's sales of assets across quarters, data from the **Entrustment and Esteem Center (Enfaz)**. It tracks sales performance by region, year, and quarter.
-
 ## Data Scope
 The dataset focuses on:
 - **Geographic:** All Saudi regions.
